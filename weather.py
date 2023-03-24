@@ -8,7 +8,7 @@ import urllib.request
   
   
 app = Flask(__name__)
-server = app.server
+
   
 @app.route('/', methods =['POST', 'GET'])
 def weather():
