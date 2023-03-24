@@ -1,4 +1,2 @@
-flask
-json
-urllib
-gunicorn
+flask==1.1.2
+gunicorn==20.1.0
